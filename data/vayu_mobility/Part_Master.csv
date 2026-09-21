@@ -1,0 +1,37 @@
+Part_Code,Part_Name,Part_Category,Unit,Stock_On_Hand,Min_Stock,Lead_Time_Weeks,Order_Policy,Batch_Qty,Std_Cost_INR,Setup_Cost_INR,Carrying_Rate,Vendor,Shelf_Life_Weeks,Source
+EV-CITY-2W,Vayu City 2W electric scooter,Finished Good,NOS,1570,1336,1,LFL,0,62000,63123,0.24,,0,Make
+EV-PRO-2W,Vayu Pro 2W performance scooter,Finished Good,NOS,730,664,1,LFL,0,78000,121363,0.24,,0,Make
+EV-CARGO-3W,Vayu Cargo 3W load carrier,Finished Good,NOS,58,65,1,FOQ,60,145000,231669,0.24,,0,Make
+SP-BATT-KIT,Service battery kit 48V,Finished Good,NOS,247,254,1,EOQ,0,21000,28252,0.24,,0,Make
+SA-FRAME-C,Frame assembly city,Sub Assembly,NOS,1386,1156,1,LFL,0,6400,7514,0.24,,0,Make
+SA-FRAME-P,Frame assembly pro,Sub Assembly,NOS,490,728,1,LFL,0,7100,11112,0.24,,0,Make
+SA-FRAME-G,Frame assembly cargo,Sub Assembly,NOS,79,63,1,FOQ,60,12800,12712,0.24,,0,Make
+SA-BATT-48,Battery pack 48V 2.2kWh,Sub Assembly,NOS,1313,1361,1,LFL,0,18500,26871,0.24,,0,Make
+SA-BATT-60,Battery pack 60V 3.0kWh,Sub Assembly,NOS,537,745,1,LFL,0,24200,39541,0.24,,0,Make
+SA-MOTOR-2K,Hub motor 2.0 kW,Sub Assembly,NOS,1516,1417,1,LFL,0,9800,11412,0.24,,0,Make
+SA-MOTOR-3K,Hub motor 3.0 kW,Sub Assembly,NOS,559,647,1,LFL,0,13400,14132,0.24,,0,Make
+SA-CONTROL,Motor controller unit,Sub Assembly,NOS,1876,1435,1,POQ,2,4300,5141,0.24,,0,Make
+SA-HARNESS,Main wiring harness,Sub Assembly,NOS,2324,1570,1,LFL,0,1250,2449,0.24,,0,Make
+PCB-CTRL,Controller PCB populated,Component,NOS,2102,1590,1,FOQ,400,1850,2909,0.24,,0,Make
+TUBE-STEEL,Steel tube 32mm ERW,Raw Material,KG,70101,34420,2,EOQ,0,78,998,0.24,Pune Sheet and Tube Works,81,Buy
+SHEET-STEEL,Steel sheet 1.6mm CRCA,Raw Material,KG,26784,12772,2,EOQ,0,71,1003,0.24,Pune Sheet and Tube Works,75,Buy
+CELL-21700,Li-ion cell 21700 5Ah,Component,NOS,107525,282960,4,FOQ,20000,210,1109,0.24,"Deccan Cell Technologies, Hosur",0,Buy
+BMS-BOARD,Battery management board,Component,NOS,10260,3188,3,FOQ,1500,2100,4174,0.24,Bengaluru Circuit Systems,0,Buy
+CASE-ALU,Aluminium pack casing,Component,NOS,11414,2784,2,EOQ,0,1450,2416,0.24,Aurangabad Alu Castings,0,Buy
+STATOR-LAM,Stator lamination stack,Component,NOS,7973,3272,3,FOQ,1200,1900,3827,0.24,Nashik Precision Magnetics,0,Buy
+MAGNET-NDFEB,Neodymium magnet segment,Component,NOS,22768,43785,5,FOQ,8000,96,1027,0.24,Nashik Precision Magnetics,0,Buy
+BEARING-SET,Bearing set 6203,Component,SET,4796,2079,2,EOQ,0,240,1194,0.24,Chakan Fastener Company,0,Buy
+WIRE-CU,Copper winding wire 1.2mm,Raw Material,KG,20180,8512,3,EOQ,0,810,2099,0.24,Coimbatore Winding Supplies,104,Buy
+WIRE-LOOM,Automotive loom cable,Raw Material,MTR,21837,9687,2,EOQ,0,34,947,0.24,Coimbatore Winding Supplies,86,Buy
+CONN-SET,Connector set waterproof,Component,SET,17422,8936,2,FOQ,3000,165,1068,0.24,Chakan Fastener Company,0,Buy
+IC-MCU,Motor control microcontroller,Component,NOS,9609,4308,4,FOQ,2500,620,1857,0.24,Bengaluru Circuit Systems,0,Buy
+PCB-BLANK,Bare 4 layer PCB,Component,NOS,7856,3477,3,FOQ,2000,210,1227,0.24,Bengaluru Circuit Systems,0,Buy
+CASE-PLASTIC,Controller enclosure ABS,Component,NOS,5370,2206,2,EOQ,0,190,1083,0.24,Aurangabad Alu Castings,0,Buy
+RM-PAINT,Powder coat paint,Raw Material,KG,2558,1284,2,EOQ,0,385,1463,0.24,Vapi Coatings and Chemicals,33,Buy
+RM-SOLDER,Lead free solder paste,Raw Material,KG,169,71,3,EOQ,0,2650,4479,0.24,Vapi Coatings and Chemicals,48,Buy
+CONS-WELDROD,MIG welding wire,Consumable,KG,1530,793,2,EOQ,0,168,1100,0.24,Vapi Coatings and Chemicals,0,Buy
+CONS-FASTENER,Fastener kit per vehicle,Consumable,SET,6892,3056,2,FOQ,5000,145,1065,0.24,Chakan Fastener Company,0,Buy
+CONS-TAPE,Harness wrapping tape,Consumable,ROL,687,415,1,EOQ,0,62,980,0.24,Bhiwandi Packaging House,0,Buy
+PK-CARTON-2W,Export carton two wheeler,Packaging,NOS,5226,2883,2,FOQ,2000,420,1492,0.24,Bhiwandi Packaging House,0,Buy
+PK-CARTON-3W,Export carton three wheeler,Packaging,NOS,251,86,2,FOQ,500,760,1833,0.24,Bhiwandi Packaging House,0,Buy
+PK-BOX-BATT,Battery service box,Packaging,NOS,1012,427,2,FOQ,1500,180,1128,0.24,Bhiwandi Packaging House,0,Buy

@@ -1,0 +1,31 @@
+Part_Code,Opn_No,Opn_Name,Cost_Centre,Setup_Mins,Cycle_Time_Mins
+EV-CITY-2W,10,Final assembly,WC-FINAL,20,6.2
+EV-CITY-2W,20,End of line test,WC-TEST,12,4.4
+EV-CITY-2W,30,Pack and despatch,WC-PACK,8,1.4
+EV-PRO-2W,10,Final assembly,WC-FINAL,20,6.9
+EV-PRO-2W,20,End of line test,WC-TEST,12,5.15
+EV-PRO-2W,30,Pack and despatch,WC-PACK,8,1.4
+EV-CARGO-3W,10,Final assembly,WC-FINAL,30,11.5
+EV-CARGO-3W,20,End of line test,WC-TEST,18,8.1
+EV-CARGO-3W,30,Pack and despatch,WC-PACK,10,2.6
+SP-BATT-KIT,10,Kit build and pack,WC-PACK,10,1.1
+SA-FRAME-C,10,Cut and bend,WC-CUT,15,1.7
+SA-FRAME-C,20,Weld frame,WC-WELD,25,4.3
+SA-FRAME-C,30,Powder coat,WC-PAINT,45,2.1
+SA-FRAME-P,10,Cut and bend,WC-CUT,15,1.85
+SA-FRAME-P,20,Weld frame,WC-WELD,25,4.6
+SA-FRAME-P,30,Powder coat,WC-PAINT,45,2.2
+SA-FRAME-G,10,Cut and bend,WC-CUT,20,3.1
+SA-FRAME-G,20,Weld frame,WC-WELD,35,8.2
+SA-FRAME-G,30,Powder coat,WC-PAINT,55,3.6
+SA-BATT-48,10,Cell sort and tab,WC-CELL,20,1.05
+SA-BATT-48,20,Pack build and test,WC-PACKASM,25,3.2
+SA-BATT-60,10,Cell sort and tab,WC-CELL,20,1.3
+SA-BATT-60,20,Pack build and test,WC-PACKASM,25,3.9
+SA-MOTOR-2K,10,Stator winding,WC-WIND,30,3.6
+SA-MOTOR-2K,20,Rotor and housing,WC-MOTASM,20,2.4
+SA-MOTOR-3K,10,Stator winding,WC-WIND,30,4.3
+SA-MOTOR-3K,20,Rotor and housing,WC-MOTASM,20,2.8
+SA-CONTROL,10,Controller build,WC-SMT,35,1.3
+SA-HARNESS,10,Loom cut and crimp,WC-HARN,15,2.0
+PCB-CTRL,10,SMT place and reflow,WC-SMT,40,0.85

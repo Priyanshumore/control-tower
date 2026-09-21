@@ -1,0 +1,93 @@
+Order_ID,Customer_ID,Customer,Item,Period,Qty,Due_Date,Priority,Status
+SO-1001,CUST-03,"Metro Cash and Carry, Bengaluru",FG-MAG-70,37,2000,2026-09-13,2,Confirmed
+SO-1002,CUST-04,"Spencers Retail, East Zone",FG-MAG-70,37,1245,2026-09-13,2,Confirmed
+SO-1003,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-MAG-70,37,448,2026-09-13,3,Confirmed
+SO-1004,CUST-01,"Reliance Retail, Western Zone",FG-MAG-70,37,1000,2026-09-13,1,Confirmed
+SO-1005,CUST-01,"Reliance Retail, Western Zone",FG-MAG-280,37,866,2026-09-13,1,Confirmed
+SO-1006,CUST-04,"Spencers Retail, East Zone",FG-MAG-280,37,481,2026-09-13,2,Confirmed
+SO-1007,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-OAT-72,37,200,2026-09-13,1,Confirmed
+SO-1008,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-OAT-72,37,415,2026-09-13,3,Confirmed
+SO-1009,CUST-03,"Metro Cash and Carry, Bengaluru",FG-KET-500,37,869,2026-09-13,2,Confirmed
+SO-1010,CUST-01,"Reliance Retail, Western Zone",FG-KET-500,37,103,2026-09-13,1,Confirmed
+SO-1011,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-MAG-70,38,2076,2026-09-20,3,Confirmed
+SO-1012,CUST-04,"Spencers Retail, East Zone",FG-MAG-70,38,403,2026-09-20,2,Confirmed
+SO-1013,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-MAG-70,38,1519,2026-09-20,1,Confirmed
+SO-1014,CUST-03,"Metro Cash and Carry, Bengaluru",FG-MAG-280,38,1144,2026-09-20,2,Confirmed
+SO-1015,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-MAG-280,38,103,2026-09-20,1,Confirmed
+SO-1016,CUST-01,"Reliance Retail, Western Zone",FG-OAT-72,38,273,2026-09-20,1,Confirmed
+SO-1017,CUST-04,"Spencers Retail, East Zone",FG-OAT-72,38,41,2026-09-20,2,Confirmed
+SO-1018,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-OAT-72,38,157,2026-09-20,3,Confirmed
+SO-1019,CUST-04,"Spencers Retail, East Zone",FG-KET-500,38,60,2026-09-20,2,Confirmed
+SO-1020,CUST-03,"Metro Cash and Carry, Bengaluru",FG-KET-500,38,167,2026-09-20,2,Confirmed
+SO-1021,CUST-01,"Reliance Retail, Western Zone",FG-KET-500,38,132,2026-09-20,1,Confirmed
+SO-1022,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-KET-500,38,395,2026-09-20,1,Confirmed
+SO-1023,CUST-04,"Spencers Retail, East Zone",FG-MAG-70,39,1164,2026-09-27,2,Confirmed
+SO-1024,CUST-03,"Metro Cash and Carry, Bengaluru",FG-MAG-70,39,1936,2026-09-27,2,Confirmed
+SO-1025,CUST-01,"Reliance Retail, Western Zone",FG-MAG-280,39,110,2026-09-27,1,Confirmed
+SO-1026,CUST-04,"Spencers Retail, East Zone",FG-MAG-280,39,343,2026-09-27,2,Confirmed
+SO-1027,CUST-03,"Metro Cash and Carry, Bengaluru",FG-MAG-280,39,54,2026-09-27,2,Confirmed
+SO-1028,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-MAG-280,39,391,2026-09-27,1,Confirmed
+SO-1029,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-OAT-72,39,159,2026-09-27,1,Confirmed
+SO-1030,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-OAT-72,39,192,2026-09-27,3,Confirmed
+SO-1031,CUST-04,"Spencers Retail, East Zone",FG-KET-500,39,265,2026-09-27,2,Confirmed
+SO-1032,CUST-01,"Reliance Retail, Western Zone",FG-KET-500,39,164,2026-09-27,1,Confirmed
+SO-1033,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-KET-500,39,88,2026-09-27,3,Confirmed
+SO-1034,CUST-03,"Metro Cash and Carry, Bengaluru",FG-KET-500,39,72,2026-09-27,2,Confirmed
+SO-1035,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-MAG-70,40,1299,2026-10-04,1,Confirmed
+SO-1036,CUST-04,"Spencers Retail, East Zone",FG-MAG-70,40,779,2026-10-04,2,Confirmed
+SO-1037,CUST-03,"Metro Cash and Carry, Bengaluru",FG-MAG-70,40,471,2026-10-04,2,Confirmed
+SO-1038,CUST-01,"Reliance Retail, Western Zone",FG-MAG-280,40,169,2026-10-04,1,Confirmed
+SO-1039,CUST-04,"Spencers Retail, East Zone",FG-MAG-280,40,266,2026-10-04,2,Confirmed
+SO-1040,CUST-03,"Metro Cash and Carry, Bengaluru",FG-MAG-280,40,262,2026-10-04,2,Confirmed
+SO-1041,CUST-01,"Reliance Retail, Western Zone",FG-OAT-72,40,48,2026-10-04,1,Confirmed
+SO-1042,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-OAT-72,40,86,2026-10-04,1,Confirmed
+SO-1043,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-OAT-72,40,49,2026-10-04,3,Confirmed
+SO-1044,CUST-03,"Metro Cash and Carry, Bengaluru",FG-OAT-72,40,50,2026-10-04,2,Confirmed
+SO-1045,CUST-01,"Reliance Retail, Western Zone",FG-KET-500,40,276,2026-10-04,1,Confirmed
+SO-1046,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-KET-500,40,64,2026-10-04,1,Confirmed
+SO-1047,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-KET-500,40,24,2026-10-04,3,Confirmed
+SO-1048,CUST-03,"Metro Cash and Carry, Bengaluru",FG-KET-500,40,132,2026-10-04,2,Confirmed
+SO-1049,CUST-01,"Reliance Retail, Western Zone",FG-MAG-70,41,509,2026-10-11,1,Confirmed
+SO-1050,CUST-03,"Metro Cash and Carry, Bengaluru",FG-MAG-70,41,376,2026-10-11,2,Confirmed
+SO-1051,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-MAG-70,41,549,2026-10-11,1,Confirmed
+SO-1052,CUST-04,"Spencers Retail, East Zone",FG-MAG-70,41,171,2026-10-11,2,Confirmed
+SO-1053,CUST-01,"Reliance Retail, Western Zone",FG-MAG-280,41,100,2026-10-11,1,Confirmed
+SO-1054,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-MAG-280,41,175,2026-10-11,3,Confirmed
+SO-1055,CUST-04,"Spencers Retail, East Zone",FG-MAG-280,41,145,2026-10-11,2,Confirmed
+SO-1056,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-MAG-280,41,85,2026-10-11,1,Confirmed
+SO-1057,CUST-03,"Metro Cash and Carry, Bengaluru",FG-OAT-72,41,23,2026-10-11,2,Confirmed
+SO-1058,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-OAT-72,41,23,2026-10-11,3,Confirmed
+SO-1059,CUST-01,"Reliance Retail, Western Zone",FG-OAT-72,41,136,2026-10-11,1,Confirmed
+SO-1060,CUST-01,"Reliance Retail, Western Zone",FG-KET-500,41,71,2026-10-11,1,Confirmed
+SO-1061,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-KET-500,41,60,2026-10-11,1,Confirmed
+SO-1062,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-KET-500,41,170,2026-10-11,3,Confirmed
+SO-1063,CUST-01,"Reliance Retail, Western Zone",FG-MAG-70,42,173,2026-10-18,1,Confirmed
+SO-1064,CUST-03,"Metro Cash and Carry, Bengaluru",FG-MAG-70,42,192,2026-10-18,2,Confirmed
+SO-1065,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-MAG-70,42,407,2026-10-18,1,Confirmed
+SO-1066,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-MAG-70,42,75,2026-10-18,3,Confirmed
+SO-1067,CUST-01,"Reliance Retail, Western Zone",FG-MAG-280,42,97,2026-10-18,1,Confirmed
+SO-1068,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-MAG-280,42,245,2026-10-18,3,Confirmed
+SO-1069,CUST-01,"Reliance Retail, Western Zone",FG-OAT-72,42,29,2026-10-18,1,Confirmed
+SO-1070,CUST-04,"Spencers Retail, East Zone",FG-OAT-72,42,46,2026-10-18,2,Confirmed
+SO-1071,CUST-04,"Spencers Retail, East Zone",FG-KET-500,42,67,2026-10-18,2,Confirmed
+SO-1072,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-KET-500,42,44,2026-10-18,3,Confirmed
+SO-1073,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-KET-500,42,146,2026-10-18,1,Confirmed
+SO-1074,CUST-03,"Metro Cash and Carry, Bengaluru",FG-MAG-70,43,119,2026-10-25,2,Confirmed
+SO-1075,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-MAG-70,43,122,2026-10-25,3,Confirmed
+SO-1076,CUST-01,"Reliance Retail, Western Zone",FG-MAG-70,43,54,2026-10-25,1,Confirmed
+SO-1077,CUST-04,"Spencers Retail, East Zone",FG-MAG-70,43,191,2026-10-25,2,Confirmed
+SO-1078,CUST-01,"Reliance Retail, Western Zone",FG-MAG-280,43,87,2026-10-25,1,Confirmed
+SO-1079,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-MAG-280,43,86,2026-10-25,1,Confirmed
+SO-1080,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-OAT-72,43,33,2026-10-25,1,Confirmed
+SO-1081,CUST-03,"Metro Cash and Carry, Bengaluru",FG-OAT-72,43,20,2026-10-25,2,Confirmed
+SO-1082,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-KET-500,43,28,2026-10-25,1,Confirmed
+SO-1083,CUST-01,"Reliance Retail, Western Zone",FG-KET-500,43,33,2026-10-25,1,Confirmed
+SO-1084,CUST-04,"Spencers Retail, East Zone",FG-KET-500,43,30,2026-10-25,2,Confirmed
+SO-1085,CUST-04,"Spencers Retail, East Zone",FG-MAG-70,44,37,2026-11-01,2,Confirmed
+SO-1086,CUST-03,"Metro Cash and Carry, Bengaluru",FG-MAG-70,44,114,2026-11-01,2,Confirmed
+SO-1087,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-MAG-70,44,152,2026-11-01,1,Confirmed
+SO-1088,CUST-02,"Avenue Supermarts (DMart), Maharashtra",FG-MAG-280,44,85,2026-11-01,1,Confirmed
+SO-1089,CUST-03,"Metro Cash and Carry, Bengaluru",FG-MAG-280,44,35,2026-11-01,2,Confirmed
+SO-1090,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-OAT-72,44,40,2026-11-01,3,Confirmed
+SO-1091,CUST-05,"Shree Ganesh Distributors, Mumbai",FG-KET-500,44,20,2026-11-01,3,Confirmed
+SO-1092,CUST-04,"Spencers Retail, East Zone",FG-KET-500,44,23,2026-11-01,2,Confirmed

@@ -1,0 +1,45 @@
+Sales_Order,Dealer_Code,Dealer,Part_Code,Fiscal_Week,Order_Units,Promise_Date,Urgency,Order_Status
+SO-25001,D-02,Pune West Mobility,EV-CITY-2W,237,521,2026-09-14,3,Confirmed
+SO-25002,D-03,Bengaluru Green Rides,EV-CITY-2W,237,521,2026-09-14,1,Confirmed
+SO-25003,D-04,Delhi NCR Fleet Services,EV-PRO-2W,237,275,2026-09-14,3,Confirmed
+SO-25004,D-01,Mumbai Metro EV Dealers,SP-BATT-KIT,237,303,2026-09-14,3,Confirmed
+SO-25005,D-03,Bengaluru Green Rides,SP-BATT-KIT,237,303,2026-09-14,3,Confirmed
+SO-25006,D-05,Hyderabad Urban Motors,EV-CITY-2W,238,483,2026-09-21,3,Confirmed
+SO-25007,D-02,Pune West Mobility,EV-CITY-2W,238,483,2026-09-21,2,Confirmed
+SO-25008,D-04,Delhi NCR Fleet Services,EV-PRO-2W,238,191,2026-09-21,1,Confirmed
+SO-25009,D-02,Pune West Mobility,SP-BATT-KIT,238,241,2026-09-21,2,Confirmed
+SO-25010,D-05,Hyderabad Urban Motors,EV-CITY-2W,239,372,2026-09-28,3,Confirmed
+SO-25011,D-05,Hyderabad Urban Motors,EV-CITY-2W,239,372,2026-09-28,1,Confirmed
+SO-25012,D-02,Pune West Mobility,EV-PRO-2W,239,212,2026-09-28,1,Confirmed
+SO-25013,D-04,Delhi NCR Fleet Services,EV-CARGO-3W,239,94,2026-09-28,2,Confirmed
+SO-25014,D-02,Pune West Mobility,SP-BATT-KIT,239,189,2026-09-28,3,Confirmed
+SO-25015,D-04,Delhi NCR Fleet Services,EV-CITY-2W,240,344,2026-10-05,3,Confirmed
+SO-25016,D-03,Bengaluru Green Rides,EV-CITY-2W,240,344,2026-10-05,1,Confirmed
+SO-25017,D-05,Hyderabad Urban Motors,EV-PRO-2W,240,192,2026-10-05,1,Confirmed
+SO-25018,D-01,Mumbai Metro EV Dealers,SP-BATT-KIT,240,116,2026-10-05,3,Confirmed
+SO-25019,D-03,Bengaluru Green Rides,EV-CITY-2W,241,326,2026-10-12,2,Confirmed
+SO-25020,D-01,Mumbai Metro EV Dealers,EV-CITY-2W,241,326,2026-10-12,3,Confirmed
+SO-25021,D-03,Bengaluru Green Rides,EV-PRO-2W,241,192,2026-10-12,3,Confirmed
+SO-25022,D-04,Delhi NCR Fleet Services,SP-BATT-KIT,241,128,2026-10-12,3,Confirmed
+SO-25023,D-04,Delhi NCR Fleet Services,EV-CITY-2W,242,536,2026-10-19,3,Confirmed
+SO-25024,D-01,Mumbai Metro EV Dealers,EV-PRO-2W,242,168,2026-10-19,3,Confirmed
+SO-25025,D-04,Delhi NCR Fleet Services,EV-CARGO-3W,242,74,2026-10-19,2,Confirmed
+SO-25026,D-02,Pune West Mobility,SP-BATT-KIT,242,132,2026-10-19,2,Confirmed
+SO-25027,D-01,Mumbai Metro EV Dealers,EV-CITY-2W,243,435,2026-10-26,1,Confirmed
+SO-25028,D-05,Hyderabad Urban Motors,EV-PRO-2W,243,151,2026-10-26,3,Confirmed
+SO-25029,D-03,Bengaluru Green Rides,EV-CARGO-3W,243,55,2026-10-26,3,Confirmed
+SO-25030,D-02,Pune West Mobility,SP-BATT-KIT,243,75,2026-10-26,3,Confirmed
+SO-25031,D-02,Pune West Mobility,EV-CITY-2W,244,387,2026-11-02,2,Confirmed
+SO-25032,D-01,Mumbai Metro EV Dealers,EV-PRO-2W,244,105,2026-11-02,2,Confirmed
+SO-25033,D-02,Pune West Mobility,EV-CARGO-3W,244,40,2026-11-02,2,Confirmed
+SO-25034,D-03,Bengaluru Green Rides,SP-BATT-KIT,244,98,2026-11-02,1,Confirmed
+SO-25035,D-02,Pune West Mobility,EV-CITY-2W,245,246,2026-11-09,3,Confirmed
+SO-25036,D-03,Bengaluru Green Rides,EV-PRO-2W,245,67,2026-11-09,2,Confirmed
+SO-25037,D-01,Mumbai Metro EV Dealers,SP-BATT-KIT,245,130,2026-11-09,2,Confirmed
+SO-25038,D-05,Hyderabad Urban Motors,EV-CITY-2W,246,169,2026-11-16,2,Confirmed
+SO-25039,D-01,Mumbai Metro EV Dealers,EV-PRO-2W,246,37,2026-11-16,3,Confirmed
+SO-25040,D-04,Delhi NCR Fleet Services,EV-CARGO-3W,246,22,2026-11-16,2,Confirmed
+SO-25041,D-01,Mumbai Metro EV Dealers,SP-BATT-KIT,246,39,2026-11-16,3,Confirmed
+SO-25042,D-02,Pune West Mobility,EV-CITY-2W,247,82,2026-11-23,3,Confirmed
+SO-25043,D-02,Pune West Mobility,EV-PRO-2W,247,18,2026-11-23,2,Confirmed
+SO-25044,D-04,Delhi NCR Fleet Services,SP-BATT-KIT,247,18,2026-11-23,1,Confirmed

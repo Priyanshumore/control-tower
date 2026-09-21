@@ -1,0 +1,13 @@
+Cost_Centre,Cost_Centre_Name,No_Of_Stations,Hours_Per_Shift,Shifts,Working_Days,OEE_Pct
+WC-CUT,Tube cutting and bending,2,8,2,6,84
+WC-WELD,Frame welding cell,4,8,2,6,80
+WC-PAINT,Powder coat booth,1,8,2,6,76
+WC-CELL,Cell sorting and tabbing,2,8,3,6,88
+WC-PACKASM,Battery pack assembly,3,8,2,6,85
+WC-WIND,Stator winding,3,8,2,6,82
+WC-MOTASM,Motor assembly,2,8,2,6,86
+WC-SMT,SMT and electronics,2,8,2,6,90
+WC-HARN,Harness build,2,8,2,6,87
+WC-FINAL,Final vehicle assembly,3,8,2,6,83
+WC-TEST,End of line test and homologation,2,8,2,6,79
+WC-PACK,Packing and despatch,2,8,2,6,88

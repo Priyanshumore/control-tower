@@ -1,0 +1,10 @@
+Work_Centre,Description,Num_Machines,Hours_Per_Shift,Shifts_Per_Day,Days_Per_Week,Efficiency_Pct
+WC-MIX,Dough mixing line,1,8,3,6,90
+WC-SHEET,"Sheeting, slitting and steaming",1,8,3,6,88
+WC-FRY,Frying and cooling tunnel,2,8,3,6,90
+WC-TM,Tastemaker blending and filling,1,8,3,6,92
+WC-PACK,Wrapping and packing line,2,8,3,6,85
+WC-CTN,Cartoning and palletising,1,8,3,6,93
+WC-PULP,Tomato washing and pulping,1,8,2,6,86
+WC-COOK,Cooking and concentration,1,8,2,6,88
+WC-FILL,Bottling and labelling line,1,8,2,6,87

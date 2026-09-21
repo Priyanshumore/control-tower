@@ -1,0 +1,23 @@
+Vendor_Code,Vendor,Part_Code,Lead_Time_Weeks,On_Time_Pct,Min_Order_Qty
+V-101,"Deccan Cell Technologies, Hosur",CELL-21700,4,91,20000
+V-102,Nashik Precision Magnetics,MAGNET-NDFEB,5,82,8000
+V-102,Nashik Precision Magnetics,STATOR-LAM,5,82,8000
+V-103,Pune Sheet and Tube Works,TUBE-STEEL,2,95,2500
+V-103,Pune Sheet and Tube Works,SHEET-STEEL,2,95,2500
+V-104,Coimbatore Winding Supplies,WIRE-CU,3,93,400
+V-104,Coimbatore Winding Supplies,WIRE-LOOM,3,93,400
+V-105,Bengaluru Circuit Systems,PCB-BLANK,4,88,2000
+V-105,Bengaluru Circuit Systems,IC-MCU,4,88,2000
+V-105,Bengaluru Circuit Systems,BMS-BOARD,4,88,2000
+V-106,Aurangabad Alu Castings,CASE-ALU,2,94,1000
+V-106,Aurangabad Alu Castings,CASE-PLASTIC,2,94,1000
+V-107,Chakan Fastener Company,CONS-FASTENER,2,96,3000
+V-107,Chakan Fastener Company,BEARING-SET,2,96,3000
+V-107,Chakan Fastener Company,CONN-SET,2,96,3000
+V-108,Vapi Coatings and Chemicals,RM-PAINT,2,90,250
+V-108,Vapi Coatings and Chemicals,RM-SOLDER,2,90,250
+V-108,Vapi Coatings and Chemicals,CONS-WELDROD,2,90,250
+V-109,Bhiwandi Packaging House,PK-CARTON-2W,2,97,500
+V-109,Bhiwandi Packaging House,PK-CARTON-3W,2,97,500
+V-109,Bhiwandi Packaging House,PK-BOX-BATT,2,97,500
+V-109,Bhiwandi Packaging House,CONS-TAPE,2,97,500

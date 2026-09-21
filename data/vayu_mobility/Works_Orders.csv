@@ -1,0 +1,6 @@
+Works_Order,Part_Code,Order_Units,Start_Week,Finish_Week,Urgency,Order_Status
+WO-9001,EV-CITY-2W,320,237,237,1,Released
+WO-9002,SA-BATT-48,420,237,237,1,Released
+WO-9003,SA-FRAME-C,380,237,238,2,Released
+WO-9004,EV-PRO-2W,180,238,238,2,Firm Planned
+WO-9005,SA-MOTOR-2K,300,237,238,3,Firm Planned

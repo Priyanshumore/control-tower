@@ -1,0 +1,20 @@
+Supplier_ID,Supplier_Name,Item,Lead_Time_Periods,Reliability_Pct,Min_Order_Qty,Price,Preferred
+SUP-AGRO-01,"Shakti Agro Mills, Indore",RM-MAIDA,2,96,20000,34.5,Yes
+SUP-AGRO-01,"Shakti Agro Mills, Indore",RM-SALT,2,97,15000,18.5,Yes
+SUP-AGRO-02,"Sahyadri Grain Traders, Nashik",RM-OATS,3,92,8000,78.0,Yes
+SUP-AGRO-02,"Sahyadri Grain Traders, Nashik",RM-STARCH,2,94,10000,46.0,Yes
+SUP-OIL-01,"Konkan Edible Oils, Raigad",RM-PALMOIL,3,89,20000,112.0,Yes
+SUP-SPICE-01,Guntur Spice House,RM-CHILLI,4,85,4000,285.0,Yes
+SUP-SPICE-01,Guntur Spice House,RM-CORIANDER,4,88,4000,196.0,Yes
+SUP-SPICE-02,Erode Turmeric Co-op,RM-TURMERIC,3,91,3000,245.0,Yes
+SUP-SPICE-02,Erode Turmeric Co-op,RM-GARLIC-PWD,4,83,2000,412.0,Yes
+SUP-AGRO-03,Nashik Farm Collective,RM-TOMATO,1,78,25000,16.5,Yes
+SUP-AGRO-03,Nashik Farm Collective,RM-SUGAR,2,95,10000,44.0,Yes
+SUP-PACK-01,"Uflex Laminates, Pune",PK-WRAP-70,2,95,300000,0.62,Yes
+SUP-PACK-01,"Uflex Laminates, Pune",PK-WRAP-280,2,95,100000,1.35,Yes
+SUP-PACK-01,"Uflex Laminates, Pune",PK-CTN-96,1,96,8000,22.5,Yes
+SUP-PACK-01,"Uflex Laminates, Pune",PK-CTN-24,1,96,6000,17.8,Yes
+SUP-PACK-02,"Paras Flexipack, Vapi",PK-WRAP-OAT,2,90,120000,0.74,Yes
+SUP-PACK-02,"Paras Flexipack, Vapi",PK-SACHET,2,92,400000,0.21,Yes
+SUP-PACK-03,"Manjushree PET, Bengaluru",PK-BOTTLE-500,3,94,60000,6.4,Yes
+SUP-PACK-03,"Manjushree PET, Bengaluru",PK-LABEL-KET,2,93,40000,0.95,Yes

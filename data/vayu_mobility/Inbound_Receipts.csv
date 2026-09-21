@@ -1,0 +1,18 @@
+Part_Code,Fiscal_Week,Inbound_Units,GRN_Ref,Vendor
+TUBE-STEEL,240,37337,PO-7101,Pune Sheet and Tube Works
+SHEET-STEEL,239,24677,PO-7102,Pune Sheet and Tube Works
+BMS-BOARD,237,1500,PO-7103,Bengaluru Circuit Systems
+CASE-ALU,239,2990,PO-7104,Aurangabad Alu Castings
+STATOR-LAM,238,1200,PO-7105,Nashik Precision Magnetics
+BEARING-SET,237,2490,PO-7106,Chakan Fastener Company
+WIRE-CU,240,14898,PO-7107,Coimbatore Winding Supplies
+WIRE-LOOM,239,17505,PO-7108,Coimbatore Winding Supplies
+CONN-SET,240,3000,PO-7109,Chakan Fastener Company
+IC-MCU,239,2500,PO-7110,Bengaluru Circuit Systems
+PCB-BLANK,239,2000,PO-7111,Bengaluru Circuit Systems
+RM-PAINT,239,1793,PO-7112,Vapi Coatings and Chemicals
+RM-SOLDER,238,98,PO-7113,Vapi Coatings and Chemicals
+CONS-WELDROD,238,1192,PO-7114,Vapi Coatings and Chemicals
+CONS-TAPE,238,573,PO-7115,Bhiwandi Packaging House
+PK-CARTON-2W,240,2000,PO-7116,Bhiwandi Packaging House
+PK-BOX-BATT,240,1500,PO-7117,Bhiwandi Packaging House

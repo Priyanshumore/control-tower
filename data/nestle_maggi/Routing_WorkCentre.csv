@@ -1,0 +1,23 @@
+Item,Op_Seq,Operation,Work_Centre,Setup_Time_Min,Run_Time_Min_Per_Unit
+FG-MAG-70,10,Dough mixing,WC-MIX,30,0.74
+FG-MAG-70,20,"Sheeting, slitting, steaming",WC-SHEET,40,0.78
+FG-MAG-70,30,Frying and cooling,WC-FRY,25,1.2
+FG-MAG-70,40,Tastemaker filling,WC-TM,20,0.5
+FG-MAG-70,50,Wrapping and packing,WC-PACK,35,1.32
+FG-MAG-70,60,Cartoning and palletising,WC-CTN,15,0.4
+FG-MAG-280,10,Dough mixing,WC-MIX,30,0.74
+FG-MAG-280,20,"Sheeting, slitting, steaming",WC-SHEET,45,0.78
+FG-MAG-280,30,Frying and cooling,WC-FRY,25,1.2
+FG-MAG-280,40,Tastemaker filling,WC-TM,20,0.5
+FG-MAG-280,50,Wrapping and packing,WC-PACK,45,1.46
+FG-MAG-280,60,Cartoning and palletising,WC-CTN,15,0.4
+FG-OAT-72,10,Dough mixing,WC-MIX,45,0.86
+FG-OAT-72,20,"Sheeting, slitting, steaming",WC-SHEET,50,0.9
+FG-OAT-72,30,Frying and cooling,WC-FRY,30,1.25
+FG-OAT-72,40,Tastemaker filling,WC-TM,25,0.5
+FG-OAT-72,50,Wrapping and packing,WC-PACK,40,1.37
+FG-OAT-72,60,Cartoning and palletising,WC-CTN,15,0.4
+FG-KET-500,10,Tomato washing and pulping,WC-PULP,45,1.8
+FG-KET-500,20,Cooking and concentration,WC-COOK,60,2.2
+FG-KET-500,30,Bottling and labelling,WC-FILL,30,2.0
+FG-KET-500,40,Cartoning and palletising,WC-CTN,15,0.5
